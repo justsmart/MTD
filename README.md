@@ -3,7 +3,7 @@ Code for paper: Masked Two-channel Decoupling Framework for Incomplete Multi-vie
 
 
 You can run 'python main.py' for a demo!
-For more datasets, download from [here](https://drive.google.com/drive/folders/1ey17GpSJEYpYchY6Du_AOj5Yzi2Ml7JU?usp=drive_link). 
+The original link to the five datasets is not available now, you can download the datesets and pre-processed incomplete datesets from [here](https://drive.google.com/drive/folders/1ey17GpSJEYpYchY6Du_AOj5Yzi2Ml7JU?usp=drive_link). 
 
 
 If this code is helpful to you, please cite the following paper:
