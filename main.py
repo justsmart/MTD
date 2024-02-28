@@ -242,7 +242,7 @@ if __name__ == '__main__':
     parser.add_argument('--lr', type=float, default=1e-1) # not work here
     parser.add_argument('--momentum', type=float, default=0.9)
     parser.add_argument('--weight_decay', type=float, default=1e-4)
-    parser.add_argument('--epochs', type=int, default=100) # here to set the repeat number  
+    parser.add_argument('--epochs', type=int, default=200) # here to set the repeat number  
     
     # Training args
     parser.add_argument('--n_z', type=int, default=512) # here to set the dimension
