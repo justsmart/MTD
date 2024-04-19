@@ -8,10 +8,10 @@ The original link to the five datasets is not available now, you can download th
 
 If this code is helpful to you, please cite the following paper:
 ```bibtex
-@article{liu2024masked,
+@inproceedings{liu2024masked,
   title={Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning},
   author={Liu, Chengliang and Wen, Jie and Liu, Yabo and Huang, Chao and Wu, Zhihao and Luo, Xiaoling and Xu, Yong},
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   volume={36},
   year={2024}
 }
