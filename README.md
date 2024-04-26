@@ -5,6 +5,11 @@ Code for paper: Masked Two-channel Decoupling Framework for Incomplete Multi-vie
 You can run 'python main.py' for a demo!
 The original link to the five datasets is not available now, you can download the datesets and pre-processed incomplete datesets from [here](https://drive.google.com/drive/folders/1ey17GpSJEYpYchY6Du_AOj5Yzi2Ml7JU?usp=drive_link). 
 
+# Typo correction:
+
+1. In the denominator of Eq.(1), "u=v" should be "u!=v".
+
+2. It should be {D_{v}: (S^{(v)}+O^{(v)}) \rightarrow \bar{X}^{(v)}}, instead of {{D}_{v}: S^{(v)} \rightarrow \bar{X}^{(v)}}. The input of decoder D_{v} is the sum of shared and private features. 
 
 If this code is helpful to you, please cite the following paper:
 ```bibtex
